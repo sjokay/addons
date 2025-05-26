@@ -2,7 +2,7 @@
 '''
 python -m pip install pyserial
 python -m pip install paho-mqtt
-python -m pip install typing_extention
+python -m pip install typing_extension
 '''
 import os
 import os.path
